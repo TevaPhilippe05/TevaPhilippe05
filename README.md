@@ -23,3 +23,5 @@ Vous pouvez m'appeler Teva ! Je suis étudiant à l'Université en deuxième ann
 - 🌱 J'apprends actuellement le C++ 🤫
 
 - 📫 Pour me contacter -> liens en biographie !
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheWarior73&theme=onedark&column=6&no-frame=true)]
