@@ -1,6 +1,6 @@
 ## Bonjour ! 👋
 
-Vous pouvez m'appeler Teva ! Je suis étudiant en deuxième année de licence informatique à l'Université Savoie Mont Blanc aux Bourget du Lac 👨‍🎓 et je travaille le week end à l'aéroport de Chambéry ✈️ !
+Vous pouvez m'appeler Teva ! Je suis étudiant 👨‍🎓 en L2 informatique à l'Université Savoie Mont Blanc aux Bourget du Lac et je travaille le week end à l'aéroport de Chambéry ✈️ !
 
 ## Mes projets actuels 🔭 :
 - [ ] Une [application java de liste de lecture](https://github.com/TevaPhilippe05/Perso_Appli_Lst_Lecture) interactive avec interface 📖 !
