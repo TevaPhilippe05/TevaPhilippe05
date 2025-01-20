@@ -24,4 +24,4 @@ Vous pouvez m'appeler Teva ! Je suis étudiant à l'Université en deuxième ann
 
 - 📫 Pour me contacter -> liens en biographie !
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TevaPhilippe05&theme=onedark&column=6)]
+![trophy](https://github-profile-trophy.vercel.app/?username=TevaPhilippe05&theme=onedark&column=6&no-frame=true)
