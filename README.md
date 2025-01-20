@@ -18,7 +18,7 @@ Vous pouvez m'appeler Teva ! Je suis étudiants à l'Université en deuxième an
 
 ## Et plus encore !!
 - [Jeu console Java](https://github.com/TevaPhilippe05/L2_Jeu_Ile_Console_Java).
-- Mon [site personnel](https://github.com/TevaPhilippe05/Perso_Site_Internet).
+- [Mon site personnel](https://github.com/TevaPhilippe05/Perso_Site_Internet).
 
 - 🌱 J'apprend actuellement le C++ 🤫
 
