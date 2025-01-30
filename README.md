@@ -4,7 +4,7 @@ Vous pouvez m'appeler Teva ! Je suis étudiant 👨‍🎓 en L2 informatique à
 
 ## Mes projets actuels 🔭 :
 - [ ] Une [application java de liste de lecture](https://github.com/TevaPhilippe05/Perso_Appli_Lst_Lecture) interactive avec interface 📖 !
-- [ ] Un [emploi du temps interractif](https://github.com/TevaPhilippe05/L2_Edt_Interractif_Artisants) destiné à des artisants (fictifs).
+- [ ] Un [emploi du temps interractif](https://github.com/TevaPhilippe05/L2_Edt_Interractif_Artisants) destiné à des artisants (fictifs) ⏲️ .
 - [ ] Un projet en C++ privé pour le moment 🤫 !
 - [ ] Une [application de musique](https://github.com/TevaPhilippe05/Perso_Appli_Mobile_Musique) mobile Jetpack Compose comme moyen d'apprentissage de ce langage 🤔 .
 - [ ] Un premier [plugin Minecraft](https://github.com/TevaPhilippe05/Perso_Minecraft_Plugin) avec Spygot ⛏️ .
