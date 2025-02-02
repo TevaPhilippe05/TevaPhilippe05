@@ -8,6 +8,7 @@ Vous pouvez m'appeler Teva ! Je suis étudiant 👨‍🎓 en L2 informatique à
 - [ ] Un projet en C++ privé pour le moment 🤫 !
 - [ ] Une [application de musique](https://github.com/TevaPhilippe05/Perso_Appli_Mobile_Musique) mobile Jetpack Compose comme moyen d'apprentissage de ce langage 🤔 .
 - [ ] Un premier [plugin Minecraft](https://github.com/TevaPhilippe05/Perso_Minecraft_Plugin) avec Spygot ⛏️ .
+- [ ] Dans le cadre du CMI, une étude sur la [colorimétrie propre des graphes](https://github.com/TevaPhilippe05/L2_Recherche_Colorimetrie_Graphes) à travers des algorithmes gloutons.
 
 ## Mes projets terminés ✔️ : 
 - [x] Un [jeu de plateforme](https://github.com/Maz0ky/L2_Jeu_Pygame) python avec des mécaniques assez inédites 🎮 .
