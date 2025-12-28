@@ -29,5 +29,4 @@ Vous pouvez m'appeler Teva ! Je suis étudiant 👨‍🎓 en L3 informatique à
 - 📫 Pour me contacter -> liens en biographie !
 
 > trophies ``(ryo-ma/github-profile-trophy)``
-
-![trophy](https://github-profile-trophy.vercel.app/?username=TevaPhilippe05&theme=onedark&column=6&no-frame=true&title=Commits,Repositories,Followers)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TevaPhilippe05&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
