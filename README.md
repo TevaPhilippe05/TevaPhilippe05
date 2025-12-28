@@ -27,6 +27,3 @@ Vous pouvez m'appeler Teva ! Je suis étudiant 👨‍🎓 en L3 informatique à
 - 🌱 J'apprends actuellement le C++ 🤫
 
 - 📫 Pour me contacter -> liens en biographie !
-
-> trophies ``(ryo-ma/github-profile-trophy)``
-[![trophy](https://github-profile-trophy.vercel.app/?username=TevaPhilippe05)](https://github.com/ryo-ma/github-profile-trophy)
