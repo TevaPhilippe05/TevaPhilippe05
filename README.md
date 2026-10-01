@@ -27,3 +27,6 @@ Vous pouvez m'appeler Teva ! Je suis étudiant 👨‍🎓 en L3 informatique à
 - 🌱 J'apprends actuellement le C++ 🤫
 
 - 📫 Pour me contacter -> liens en biographie !
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TevaPhilippe05&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TevaPhilippe05&theme=monokai&show_icons=true&hide_border=true&layout=compact)
